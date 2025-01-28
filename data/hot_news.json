@@ -1,0 +1,82 @@
+[
+    {
+        "headline": "第一架特朗普又赢了，全世界须高度警惕了",
+        "field": "政治",
+        "source": "新浪新闻综合",
+        "date": "01-28 08:18",
+        "predicted_fake_headline": "特朗普再次获胜，全球需警惕",
+        "error": false
+    },
+    {
+        "headline": "2025年，中国给了世界第一个惊喜，还有些惊吓",
+        "field": "国际",
+        "source": "新浪新闻综合",
+        "date": "01-28 08:19",
+        "predicted_fake_headline": "中国在2025年给世界带来惊喜和惊吓",
+        "error": false
+    },
+    {
+        "headline": "美国副总统万斯：40年了，美国一场战争没赢",
+        "field": "政治",
+        "source": "环球时报",
+        "date": "01-28 00:00",
+        "predicted_fake_headline": "美国副总统称美国40年未赢一场战争",
+        "error": false
+    },
+    {
+        "headline": "凌晨突发！DeepSeek发布！",
+        "field": "科技",
+        "source": "新浪新闻综合",
+        "date": "01-28 06:43",
+        "predicted_fake_headline": "DeepSeek在凌晨发布重大消息",
+        "error": false
+    },
+    {
+        "headline": "事关中国，特斯拉和宝马起诉欧盟：反对加征",
+        "field": "经济",
+        "source": "环球网",
+        "date": "01-28 08:17",
+        "predicted_fake_headline": "特斯拉和宝马起诉欧盟反对加征关税",
+        "error": false
+    },
+    {
+        "headline": "多名曾参与调查特朗普的美司法部官员遭解雇",
+        "field": "政治",
+        "source": "央视",
+        "date": "01-28 07:15",
+        "predicted_fake_headline": "参与调查特朗普的司法部官员被解雇",
+        "error": false
+    },
+    {
+        "headline": "官宣！中央广播电视总台《2025年春节联欢晚会》节目单发布",
+        "field": "娱乐",
+        "source": "央视",
+        "date": "01-28 15:43",
+        "predicted_fake_headline": "2025年春晚节目单正式发布",
+        "error": false
+    },
+    {
+        "headline": "“我到底属啥？”这事儿竟然是有国家标准的！",
+        "field": "社会",
+        "source": "央视",
+        "date": "01-28 05:07",
+        "predicted_fake_headline": "属相问题有国家标准",
+        "error": false
+    },
+    {
+        "headline": "外媒：特朗普表示DeepSeek崛起应当为美企敲响“警钟”，同时称也可能传递一种积极信号",
+        "field": "科技",
+        "source": "环球网",
+        "date": "01-28 09:43",
+        "predicted_fake_headline": "特朗普称DeepSeek崛起为美企敲响警钟",
+        "error": false
+    },
+    {
+        "headline": "DeepSeek最新多模态大模型：Janus-Pro-7B本地部署完全指南",
+        "field": "科技",
+        "source": "市场资讯",
+        "date": "01-28 05:37",
+        "predicted_fake_headline": "DeepSeek发布Janus-Pro-7B本地部署指南",
+        "error": false
+    }
+]
